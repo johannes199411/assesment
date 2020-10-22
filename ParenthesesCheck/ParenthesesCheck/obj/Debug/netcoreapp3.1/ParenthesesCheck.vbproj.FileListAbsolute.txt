@@ -1,0 +1,13 @@
+C:\Users\johan\source\repos\ParenthesesCheck\ParenthesesCheck\obj\Debug\netcoreapp3.1\ParenthesesCheck.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\ParenthesesCheck\ParenthesesCheck\obj\Debug\netcoreapp3.1\ParenthesesCheck.AssemblyInfo.vb
+C:\Users\johan\source\repos\ParenthesesCheck\ParenthesesCheck\obj\Debug\netcoreapp3.1\ParenthesesCheck.vbproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\ParenthesesCheck\ParenthesesCheck\bin\Debug\netcoreapp3.1\ParenthesesCheck.exe
+C:\Users\johan\source\repos\ParenthesesCheck\ParenthesesCheck\bin\Debug\netcoreapp3.1\ParenthesesCheck.deps.json
+C:\Users\johan\source\repos\ParenthesesCheck\ParenthesesCheck\bin\Debug\netcoreapp3.1\ParenthesesCheck.runtimeconfig.json
+C:\Users\johan\source\repos\ParenthesesCheck\ParenthesesCheck\bin\Debug\netcoreapp3.1\ParenthesesCheck.runtimeconfig.dev.json
+C:\Users\johan\source\repos\ParenthesesCheck\ParenthesesCheck\bin\Debug\netcoreapp3.1\ParenthesesCheck.dll
+C:\Users\johan\source\repos\ParenthesesCheck\ParenthesesCheck\bin\Debug\netcoreapp3.1\ParenthesesCheck.pdb
+C:\Users\johan\source\repos\ParenthesesCheck\ParenthesesCheck\obj\Debug\netcoreapp3.1\ParenthesesCheck.dll
+C:\Users\johan\source\repos\ParenthesesCheck\ParenthesesCheck\obj\Debug\netcoreapp3.1\ParenthesesCheck.pdb
+C:\Users\johan\source\repos\ParenthesesCheck\ParenthesesCheck\obj\Debug\netcoreapp3.1\ParenthesesCheck.genruntimeconfig.cache
+C:\Users\johan\source\repos\ParenthesesCheck\ParenthesesCheck\obj\Debug\netcoreapp3.1\ParenthesesCheck.vbprojAssemblyReference.cache
