@@ -1,0 +1,13 @@
+C:\Users\johan\source\repos\ReverseString\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.vbprojAssemblyReference.cache
+C:\Users\johan\source\repos\ReverseString\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\ReverseString\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.AssemblyInfo.vb
+C:\Users\johan\source\repos\ReverseString\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.vbproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\ReverseString\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.exe
+C:\Users\johan\source\repos\ReverseString\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.deps.json
+C:\Users\johan\source\repos\ReverseString\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.runtimeconfig.json
+C:\Users\johan\source\repos\ReverseString\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.runtimeconfig.dev.json
+C:\Users\johan\source\repos\ReverseString\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.dll
+C:\Users\johan\source\repos\ReverseString\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.pdb
+C:\Users\johan\source\repos\ReverseString\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.dll
+C:\Users\johan\source\repos\ReverseString\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.pdb
+C:\Users\johan\source\repos\ReverseString\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.genruntimeconfig.cache
